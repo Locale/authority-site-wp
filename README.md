@@ -1,5 +1,5 @@
-# saas-templates-wp
-SaaS Academy Wordpress Template
+SaaS Academy Wordpress Theme
+---------------
 
 
 Getting Started
