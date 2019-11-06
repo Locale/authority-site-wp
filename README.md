@@ -5,7 +5,7 @@ SaaS Academy Wordpress Theme
 Getting Started
 ---------------
 
-To get started using SaaS Academy Wordpress Template, please use the following steps 
+To get started using SaaS Academy Wordpress Theme, please use the following steps 
 
 **1. Download SaaS Academy Wordpress Theme**  
 [Please click here to download your theme](https://saasacademy.github.io/saas-template-wp/SaaS%20Academy%20Wordpress%20Theme.zip)
